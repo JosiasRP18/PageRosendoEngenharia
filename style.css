@@ -236,8 +236,14 @@ body {
 
 #inscricaoForm{
   background-color: #fff;
+  display:inline ;
+
 }
 
+.video{
+  display:inline ;
+
+}
 * {
   margin: 0;
   padding: 0;
@@ -358,7 +364,7 @@ main {
 
 }
 .mySlides {
-  display: flex;
+  display: inline;
   height: 500px;
   width: 600px;
   margin: auto;
